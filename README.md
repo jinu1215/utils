@@ -3,7 +3,7 @@ python utility library
 
 Introduction
 ------------
-python 관련 개발하면서 필요해서 만든 utiliry library
+python 관련 개발하면서 필요해서 만든 utility library
 
 configuration
 -------------
